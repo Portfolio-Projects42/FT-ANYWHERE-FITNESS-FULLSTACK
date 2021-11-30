@@ -1,0 +1,35 @@
+.login-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(61,90,128, 0.8);
+  margin: 10% 30%;
+  padding: 4% 1%;
+}
+
+.login-label {
+  text-align: center;
+  color: #e0fbfc;
+}
+.login-input {
+  display: flex;
+  flex-direction: column;
+  margin: 5% 0;
+}
+
+.login-h3 {
+  text-align: center;
+  color: #e0fbfc;
+  font-size: 0.8rem;
+  padding: 2%;
+  margin: 0 10%;
+}
+
+.login-page-button {
+  background-color: #ee6c4d;
+  padding: 5%;
+  color: azure;
+  font-weight: 900;
+  border-radius: 10px;
+  border: none;
+}
