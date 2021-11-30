@@ -31,7 +31,7 @@
     "pg": "8.6.0"
   },
   "devDependencies": {
-    "@types/jest": "26.0.24",
+    "@types/jest": "27.0.3",
     "cross-env": "7.0.3",
     "eslint": "7.31.0",
     "jest": "27.0.6",
